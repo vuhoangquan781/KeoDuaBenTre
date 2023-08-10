@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="18.1.3.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v18.1, Version=18.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="Report1" PageWidth="850" PageHeight="1100" Version="18.1">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="TopMargin" />
+    <Item2 Ref="2" ControlType="DetailBand" Name="Detail" HeightF="221.875">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRPivotGrid" Name="pivotGrid1" OLAPConnectionString="provider=MSOLAP;data source=localhost;initial catalog=SSAS;cube name=QLKEODUA" SizeF="650,221.875" LocationFloat="0, 0">
+          <Appearance Ref="4">
+            <Cell Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </Cell>
+            <FieldHeader Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </FieldHeader>
+            <TotalCell Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </TotalCell>
+            <GrandTotalCell Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </GrandTotalCell>
+            <CustomTotalCell Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </CustomTotalCell>
+            <FieldValue Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </FieldValue>
+            <FieldValueTotal Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </FieldValueTotal>
+            <FieldValueGrandTotal Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </FieldValueGrandTotal>
+            <Lines Font="Tahoma, 8.25pt">
+              <TextOptions WordWrap="NoWrap" Trimming="None" RightToLeft="false" />
+            </Lines>
+          </Appearance>
+          <OptionsPrint Ref="5" UsePrintAppearance="true" PrintHorzLines="True" PrintVertLines="True" PrintDataHeaders="False" PrintFilterHeaders="False" PrintColumnHeaders="True" PrintRowHeaders="True" PrintRowAreaOnEveryPage="true" FilterSeparatorBarPadding="3" />
+          <OptionsView Ref="6" />
+          <OptionsData Ref="7" AutoExpandGroups="True" />
+          <Fields>
+            <Item1 Ref="8" FieldName="[Measures].[SOLUONG]" Name="fieldSOLUONG" Area="DataArea" Caption="SOLUONG" DisplayFolder="FACT" Index="0" AreaIndex="0">
+              <Options Ref="9" />
+              <FilterValues Ref="10" Values="~Xtra#Array0, " DeferFilterString="" ShowBlanks="true" FilterType="Excluded" />
+              <SummaryFilter Ref="11" />
+            </Item1>
+            <Item2 Ref="12" FieldName="[Measures].[DOANHTHU]" Name="fieldDOANHTHU" Area="DataArea" Caption="DOANHTHU" DisplayFolder="FACT" Index="1" AreaIndex="1">
+              <Options Ref="13" />
+              <FilterValues Ref="14" Values="~Xtra#Array0, " DeferFilterString="" ShowBlanks="true" FilterType="Excluded" />
+              <SummaryFilter Ref="15" />
+            </Item2>
+            <Item3 Ref="16" FieldName="[TINH].[Hierarchy].[TENKV]" Name="fieldTENKV" Area="RowArea" Caption="TENKV" Index="2" AreaIndex="0">
+              <Options Ref="17" />
+              <FilterValues Ref="18" Values="~Xtra#Array0, " DeferFilterString="" ShowBlanks="true" FilterType="Excluded" />
+              <SummaryFilter Ref="19" />
+            </Item3>
+            <Item4 Ref="20" FieldName="[NHANVIEN].[Hierarchy].[TENCN]" Name="fieldTENCN" Area="RowArea" Caption="TENCN" Index="3" AreaIndex="1">
+              <Options Ref="21" />
+              <FilterValues Ref="22" Values="~Xtra#Array0, " DeferFilterString="" ShowBlanks="true" FilterType="Excluded" />
+              <SummaryFilter Ref="23" />
+            </Item4>
+            <Item5 Ref="24" FieldName="[SANPHAM].[Hierarchy].[TENLOAISP]" Name="fieldTENLOAISP" Area="RowArea" Caption="TENLOAISP" Index="4" AreaIndex="2">
+              <Options Ref="25" />
+              <FilterValues Ref="26" Values="~Xtra#Array0, " DeferFilterString="" ShowBlanks="true" FilterType="Excluded" />
+              <SummaryFilter Ref="27" />
+            </Item5>
+            <Item6 Ref="28" FieldName="[SANPHAM].[Hierarchy].[TENSP]" Name="fieldTENSP" Area="RowArea" Caption="TENSP" Index="5" AreaIndex="3">
+              <Options Ref="29" />
+              <FilterValues Ref="30" Values="~Xtra#Array0, " DeferFilterString="" ShowBlanks="true" FilterType="Excluded" />
+              <SummaryFilter Ref="31" />
+            </Item6>
+          </Fields>
+          <Prefilter Ref="32" />
+          <OptionsChartDataSource Ref="33" />
+          <Groups>
+            <Item1 Ref="34" Caption="Hierarchy" Hierarchy="[TINH].[Hierarchy]">
+              <FilterValues Ref="35" DeferFilterString="" FilterType="Excluded">
+                <Values Ref="36" />
+              </FilterValues>
+            </Item1>
+            <Item2 Ref="37" Caption="Hierarchy" Hierarchy="[NHANVIEN].[Hierarchy]">
+              <FilterValues Ref="38" DeferFilterString="" FilterType="Excluded">
+                <Values Ref="39" />
+              </FilterValues>
+            </Item2>
+            <Item3 Ref="40" Caption="Hierarchy" Hierarchy="[SANPHAM].[Hierarchy]">
+              <FilterValues Ref="41" DeferFilterString="" FilterType="Excluded">
+                <Values Ref="42" />
+              </FilterValues>
+            </Item3>
+          </Groups>
+        </Item1>
+      </Controls>
+    </Item2>
+    <Item3 Ref="43" ControlType="BottomMarginBand" Name="BottomMargin">
+      <Controls>
+        <Item1 Ref="44" ControlType="XRPageInfo" Name="pageInfo1" TextFormatString="Page {0}/{1}" SizeF="100,23" LocationFloat="550, 0" Padding="2,2,0,0,100" />
+      </Controls>
+    </Item3>
+    <Item4 Ref="45" ControlType="ReportHeaderBand" Name="ReportHeader">
+      <Controls>
+        <Item1 Ref="46" ControlType="XRLabel" Name="label1" Multiline="true" Text="Báo Cáo Thống Kê&#xD;&#xA;Công Ty Kẹo Dừa Bến Tre" TextAlignment="TopCenter" SizeF="358.333344,89.99999" LocationFloat="128.125, 0" Font="Times New Roman, 22pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="47" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+      </Controls>
+    </Item4>
+  </Bands>
+</XtraReportsLayoutSerializer>

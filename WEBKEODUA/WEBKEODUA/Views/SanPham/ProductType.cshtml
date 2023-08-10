@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "ProductType";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using WEBKEODUA.Models;
+@model List<SANPHAM>
+<h2>Danh sách sản phẩm</h2>
+@ViewBag.Product
+<div class="row">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-4">
+                <img src="@Url.Content("~/Image/"+item.CTSANPHAM.ANH)" style="width:70%; height:70%" alt="Image" />
+                @if (item.TENSP.Length > 30)
+                {
+                    <p><strong title="@item.TENSP">Tiêu đề: @item.TENSP.Substring(0, 30)...</strong></p><br />
+                    <a href="@Url.Action("ProductDetail",new {@Id = item.MASP })">Chi Tiết Sản Phẩm</a>
+                }
+                else
+                {
+                    <p><strong title="@item.TENSP">Tiêu đề: @item.TENSP</strong></p>
+                    <a href="@Url.Action("ProductDetail", new {@Id = item.MASP })">Chi Tiết Sản Phẩm</a>
+                }
+            </div>
+        }
+    }
+</div>

@@ -1,0 +1,14 @@
+﻿@using WEBKEODUA.Models;
+@model List<LOAISP>
+<ul class="list-group list-group-flush text-left">
+    <li class="list-group-item" style="background-color:#F3093C;"><a href="#" style="text-transform:uppercase; text-decoration:none; color:white; font-weight:bold;">Loại Sản Phẩm </a></li>
+    @{
+        foreach (var item in Model)
+        {
+            <li class="list-group-item">
+                <a href="@Url.Action("ProductType","SanPham", new { @masp = item.MALOAISP })" style="text-transform:uppercase; text-decoration:none;">@item.TENLOAISP</a>
+            </li>
+        }
+        <li class="list-group-item"><a href="#" style="text-transform:uppercase; text-decoration:none;"> </a></li>
+    }
+</ul>

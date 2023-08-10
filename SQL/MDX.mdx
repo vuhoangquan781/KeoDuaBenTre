@@ -1,0 +1,35 @@
+﻿--Thống kê doanh thu của các chi nhánh qua từng năm
+select non empty{[Measures].[DOANHTHU]} on columns,
+non empty {crossjoin([CHINHANH].[TENCN].[TENCN],[THOIGIAN].[NAM].[NAM])} on rows
+from [QLKEODUA]
+--Thống kê doanh thu các khu vuc qua từng năm
+select non empty{[Measures].[DOANHTHU]} on columns,
+non empty {crossjoin([TINH].[TENKV].[TENKV],[THOIGIAN].[NAM].[NAM])} on rows
+from [QLKEODUA]
+--SỐ lượng mua của từng tỉnh theo khu vực
+select [Measures].[SOLUONG] on columns,
+crossjoin([TINH].[TENKV].[TENKV],[TINH].[TENKVC].[TENKVC]) on rows
+from [QLKEODUA]
+--Top 3 doanh thu cao nhất theo tháng
+select [Measures].[DOANHTHU] on columns,
+topcount([THOIGIAN].[THANG].[THANG],3,[Measures].[DOANHTHU]) on rows
+from [QLKEODUA]
+--Số lượng sản phẩm được bán
+select [Measures].[SOLUONG] on columns,
+[SANPHAM].[TENSP].[TENSP] on rows
+from [QLKEODUA]
+--Chi phi vận chuyển của từng sản phẩm
+select [Measures].[CHIPHIVC] on columns,
+non empty{crossjoin([SANPHAM].[TENSP].[TENSP],[THOIGIAN].[NAM].[NAM])} on rows
+from [QLKEODUA]
+--Sản phẩm có số lượng bán lớn hơn 2000 và nhỏ hơn 4000
+select filter([SANPHAM].[TENSP].[TENSP],
+		[Measures].[SOLUONG] > 2000 and
+		[Measures].[SOLUONG] < 4000) on rows,
+non empty{[THOIGIAN].[NAM].[NAM]} on columns
+from [QLKEODUA]
+--Nếu tổng doanh thu qua các tháng lớn hơn hoặc bằng 400.000.000 thì hiển thị ">=400.000.000" ngược lại "<400.000.000"
+with Member NHANXET AS iif([Measures].[DOANHTHU]>=400000000,">=400.000.000 VND","<400.000.000 VND")
+select {[Measures].[DOANHTHU],NHANXET} on columns,
+[THOIGIAN].[THANG].[THANG] on rows
+from [QLKEODUA]

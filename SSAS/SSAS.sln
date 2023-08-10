@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS", "SSAS\SSAS.dwproj", "{828AFCD7-BB56-48A2-B82D-7C32D6DC97AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828AFCD7-BB56-48A2-B82D-7C32D6DC97AF}.Development|Default.ActiveCfg = Development
+		{828AFCD7-BB56-48A2-B82D-7C32D6DC97AF}.Development|Default.Build.0 = Development
+		{828AFCD7-BB56-48A2-B82D-7C32D6DC97AF}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,86 @@
+﻿@model WEBKEODUA.Models.KHACHHANG
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<h2 style="text-align:center;">Đăng Nhập</h2>
+<table class="table">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <tr>
+            <td style="text-align:right;">Tên Đăng Nhập:</td>
+            <td><input type="text" name="SDT" class="form-control" />@ViewData["Loi6"]</td>
+
+        </tr>
+
+        <tr>
+            <td style="text-align:right;">Mật Khẩu</td>
+            <td><input type="password" name="" class="form-control" />@ViewData["Loi7"]</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center"><input type="submit" value="ĐĂNG NHẬP" class="btn btn-primary" /></td>
+        </tr>
+    }
+</table>
+<h5 style="color:red; text-align:center;">@ViewData["Loi8"]</h5>
+<h5 style="color:red; text-align:center;">@ViewData["Loi9"]</h5>*@
+
+
+@using (Html.BeginForm())
+{
+    <div class="body mt-md-3 p-3">
+        <h3 class="text-center text-danger">ĐĂNG NHẬP </h3>
+        <div class="form-group">
+            <label>UserName</label>
+            <input name="Email" class="form-control" type="text" required placeholder="nhập username hoặc SDT" />
+        </div>
+        <div class="form-group">
+            <label>Password</label>
+            <input name="Password" class="form-control" type="password" required placeholder="nhập password" />
+        </div>
+        <div class="form-group text-right">
+            <button type="submit" class="btn btn-danger">Login</button>
+        </div>
+
+        <div class="form-group ">
+
+            <span class="text-danger">@ViewBag.error</span>
+        </div>
+    </div>
+}
+
+
+
+
+
+@*<div class="row justify-content-md-center">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                Login
+            </div>
+            <div class="card-body">
+                @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.SDT)
+                        @Html.TextBoxFor(m => m.SDT, "", new { @class = "form-control", @placeholder = "SDT" })
+
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.NGAYSINH)
+                        @Html.PasswordFor(m => m.NGAYSINH, new { @class = "form-control", @placeholder = "NGAYSINH" })
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" name="submit" class="btn btn-primary" value="Login" />
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>*@
+

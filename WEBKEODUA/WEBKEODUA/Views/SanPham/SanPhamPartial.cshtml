@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "SanPhamPartial";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SanPhamPartial</h2>
+
+
+@using WEBKEODUA.Models;
+@model List<SANPHAM>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SachPartial</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            text-align: center;
+        }
+
+        .form-control {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-4 form-control">
+
+                    <img src="@Url.Content("~/Image/" + item.CTSANPHAM.ANH)" width="100" height="100" alt="Image">
+
+                    <p>
+                        @if (item.TENSP.Length > 30)
+                        {
+                            <b> @item.TENSP.Substring(0, 30) ...</b>
+                        }
+                        else
+                        {
+                            <b> @item.TENSP</b>
+                        }
+                    </p>
+                    <br />
+                    <a href="@Url.Action("XemChiTiet", new { @ms = item.MASP })">Xem Chi Tiết</a>
+
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

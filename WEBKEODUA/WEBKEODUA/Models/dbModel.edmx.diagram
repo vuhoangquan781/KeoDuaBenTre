@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5217d95136864c6fa634530dd4999fcc" Name="Diagram1">
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.CTDONHANG" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.CTSANPHAM" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.DONHANG" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.LOAISP" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.SANPHAM" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.sysdiagram" Width="1.5" PointX="7.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.THELOAITIN" Width="1.5" PointX="7.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.TINTUC" Width="1.5" PointX="10" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_KEODUA_WEBModel.User" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <AssociationConnector Association="QL_KEODUA_WEBModel.fk_CTDONHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_KEODUA_WEBModel.fk_CTDONHANG_MASP" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_KEODUA_WEBModel.fk_SP_CTSP" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_KEODUA_WEBModel.fk_DONHANG_MAKHACH" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_KEODUA_WEBModel.fk_SP_MLSP" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_KEODUA_WEBModel.fk_TINTUC_LOAITIN" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "MailIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>MailIndex</h2>
+
+<div class="row">
+    <h2>Email</h2>
+    <form action="/Home/Mail" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="form">Form:</label>
+            <input type="email" class="form-control" id="form" placeholder="Form" name="form">
+        </div>
+        <div class="form-group">
+            <label for="to">To:</label>
+            <input type="email" class="form-control" id="to" placeholder="To" name="to">
+        </div>
+        <div class="form-group">
+            <label for="Subject">Subject:</label>
+            <input type="text" class="form-control" id="Subject" placeholder="Subject" name="Subject">
+        </div>
+        <div class="form-group">
+            <label for="body">Body:</label>
+            <input type="text" class="form-control" id="body" placeholder="Body" name="body">
+        </div>
+        <div class="form-group">
+            <input type="file" class="form-control-file border" name="file">
+        </div>
+        <button type="submit" class="btn btn-primary">Send</button>
+    </form>
+
+
+</div>

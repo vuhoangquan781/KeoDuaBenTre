@@ -1,0 +1,383 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="863e822e-fa14-4448-8633-95006e6b8e9e" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>QLKEODUA</ID>
+  <Name>QLKEODUA</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Dimensions>
+    <Dimension dwd:design-time-name="d84423fb-f21e-4af1-815e-5f3ff2312efc">
+      <ID>THOIGIAN</ID>
+      <Name>THOIGIAN</Name>
+      <DimensionID>THOIGIAN</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="1cccf179-a288-4d96-a7c9-f13f40902bea">
+          <AttributeID>MATG</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="d3cc97fc-1267-4592-98a5-870d776365fd">
+          <AttributeID>THANG</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="05e5e40c-33b5-45b6-8289-20c6c7f74fcc">
+          <AttributeID>NAM</AttributeID>
+        </Attribute>
+      </Attributes>
+      <Hierarchies>
+        <Hierarchy dwd:design-time-name="3dfcc8e5-9961-4c14-898d-f4d50d908962">
+          <HierarchyID>Hierarchy</HierarchyID>
+        </Hierarchy>
+      </Hierarchies>
+    </Dimension>
+    <Dimension dwd:design-time-name="01fae432-2379-4a13-83fb-8a49a9f4b6bf">
+      <ID>NHANVIEN</ID>
+      <Name>NHANVIEN</Name>
+      <DimensionID>NHANVIEN</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="21318874-dccc-4317-a95f-499f5a8a8770">
+          <AttributeID>MANV</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="f0f50c31-3700-4e73-9e1e-c96a69a804c3">
+          <AttributeID>MACN</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="576b4315-c4e7-447d-9b50-3df48d776963">
+          <AttributeID>TENNV</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="f3100e59-26e0-4dd7-bb57-a22659d0c3d8">
+          <AttributeID>TENCN</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="41f1f1a2-6a89-41f2-bc9e-4cb0cf8e21ba">
+          <AttributeID>GIOITINH</AttributeID>
+        </Attribute>
+      </Attributes>
+      <Hierarchies>
+        <Hierarchy dwd:design-time-name="47df140a-3ad2-405a-a712-75e50128a512">
+          <HierarchyID>Hierarchy</HierarchyID>
+        </Hierarchy>
+      </Hierarchies>
+    </Dimension>
+    <Dimension dwd:design-time-name="7ef23ccf-1c33-4a5d-85ed-b6cbc91ff8ae">
+      <ID>KHACHHANG</ID>
+      <Name>KHACHHANG</Name>
+      <DimensionID>KHACHHANG</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="2effde7c-bee2-49b7-9f10-704e12e87690">
+          <AttributeID>MAKHACH</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="8b8f4abb-82c6-4fe1-b600-880a4ca13abd">
+          <AttributeID>TENKHACH</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="97eb4eb2-6619-4808-88df-470cc75df3f7">
+          <AttributeID>GIOITINH</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="607abf48-cb4e-4dc5-8812-8e7fc9bb3563">
+          <AttributeID>NGAYSINH</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="bda290da-f5cc-4efe-b2fb-31a2c1b94690">
+          <AttributeID>TUOI</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="8a9611bd-1044-464f-8d33-85f92d67fd2a">
+          <AttributeID>NGHENGHIEP</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="d9d1e5f0-d4f5-4678-9e13-be1f3878bc7f">
+          <AttributeID>SDT</AttributeID>
+        </Attribute>
+      </Attributes>
+      <Hierarchies>
+        <Hierarchy dwd:design-time-name="d4d9c4fd-756a-4846-b9ee-d34ab5cc2bdc">
+          <HierarchyID>Hierarchy</HierarchyID>
+        </Hierarchy>
+      </Hierarchies>
+    </Dimension>
+    <Dimension dwd:design-time-name="16bb71e7-56f1-4cb3-886f-58950f4d1183">
+      <ID>TINH</ID>
+      <Name>TINH</Name>
+      <DimensionID>TINH</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="bad68ed2-4401-4d2a-ab81-ce1b61d37b08">
+          <AttributeID>MAKVC</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="8ba2f3e5-eb84-4035-8468-1500821052a0">
+          <AttributeID>MAKV</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="bf793106-9a4c-4b72-b2a2-b64631f842e0">
+          <AttributeID>TENKV</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e569ba5c-3c1e-4288-a2c6-509ee753dd6e">
+          <AttributeID>TENKVC</AttributeID>
+        </Attribute>
+      </Attributes>
+      <Hierarchies>
+        <Hierarchy dwd:design-time-name="2d33286e-117a-41be-8bcb-86029b1a82c8">
+          <HierarchyID>Hierarchy</HierarchyID>
+        </Hierarchy>
+      </Hierarchies>
+    </Dimension>
+    <Dimension dwd:design-time-name="dc9083e0-dd85-49e2-bfc3-77b12a17bbb1">
+      <ID>NHAPP</ID>
+      <Name>NHAPP</Name>
+      <DimensionID>NHAPP</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="2c12a24e-cd09-4272-939d-28c16d913a53">
+          <AttributeID>MANPP</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="03fffae5-787d-4a9c-b047-04567e754f1f">
+          <AttributeID>TENNPP</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="d0be0395-1e08-4c23-b66d-982948947a8d">
+      <ID>SANPHAM</ID>
+      <Name>SANPHAM</Name>
+      <DimensionID>SANPHAM</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="b8f39d98-4dc1-4258-b4a4-2d4bf3ed0c91">
+          <AttributeID>MASP</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="1a4b08dd-97e1-4d50-9526-fec1d5a0610c">
+          <AttributeID>MALOAISP</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2140d650-2d53-462a-9ad5-cd97d5065efd">
+          <AttributeID>TENLOAISP</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="cb473eb2-3528-454b-a97c-d4630793dbb3">
+          <AttributeID>TENSP</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="c72a70d8-6023-4678-b635-3c988278f571">
+          <AttributeID>TRONGLUONG</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="6790916e-f42f-467d-9d39-187ce3f82d3f">
+          <AttributeID>QUYCACH</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="e664cd52-6915-433a-85ed-375a218cbca6">
+          <AttributeID>KHUYENMAI</AttributeID>
+        </Attribute>
+      </Attributes>
+      <Hierarchies>
+        <Hierarchy dwd:design-time-name="b5c0df88-b13e-4c2d-aede-702a79c92046">
+          <HierarchyID>Hierarchy</HierarchyID>
+        </Hierarchy>
+      </Hierarchies>
+    </Dimension>
+  </Dimensions>
+  <MeasureGroups>
+    <MeasureGroup dwd:design-time-name="c7f77321-b1aa-4896-9cc6-5d88a182b659">
+      <ID>FACT</ID>
+      <Name>FACT</Name>
+      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Measures>
+        <Measure dwd:design-time-name="d9d2f539-5964-42c9-bb2c-4f2213f39733">
+          <ID>SOLUONG</ID>
+          <Name>SOLUONG</Name>
+          <Source dwd:design-time-name="c1b78f91-7e9d-4990-a8f7-80a5acecbb15">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="48272ad9-9cc3-44f3-964f-94d7b4494fb9">
+              <TableID>dbo_FACT</TableID>
+              <ColumnID>SOLUONG</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="70f453c1-8c8f-4c22-9d9e-d4ab6c72ee63">
+          <ID>CHIPHIVC</ID>
+          <Name>CHIPHIVC</Name>
+          <Source dwd:design-time-name="4e78afb2-5b33-448a-acc8-c6ba63e8fdc7">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="e04c7397-88b3-47c9-b344-04c464e0dcf1">
+              <TableID>dbo_FACT</TableID>
+              <ColumnID>CHIPHIVC</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="d5e757d3-3d92-4082-800c-aeeafae9ef74">
+          <ID>DOANHTHU</ID>
+          <Name>DOANHTHU</Name>
+          <Source dwd:design-time-name="901c02eb-6081-4791-8fda-b79419e9afec">
+            <DataType>Double</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="86051d6a-4b7e-4cbd-90c3-e83e74247156">
+              <TableID>dbo_FACT</TableID>
+              <ColumnID>DOANHTHU</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="5f48e7be-f37b-43b3-ac04-3effb3672f6c">
+          <ID>FACT Count</ID>
+          <Name>FACT Count</Name>
+          <AggregateFunction>Count</AggregateFunction>
+          <Source dwd:design-time-name="787979f7-4eda-43d9-9872-c404cee4267f">
+            <DataType>Integer</DataType>
+            <DataSize>4</DataSize>
+            <Source xsi:type="RowBinding" dwd:design-time-name="a3fc9570-c022-43f6-9ee5-cef98be56cf5">
+              <TableID>dbo_FACT</TableID>
+            </Source>
+          </Source>
+        </Measure>
+      </Measures>
+      <StorageMode>Molap</StorageMode>
+      <ProcessingMode>Regular</ProcessingMode>
+      <Dimensions>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="59abc9d1-cc50-4eea-b716-03d37a07a55a">
+          <CubeDimensionID>THOIGIAN</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="c5bbf8b8-68f6-48b1-ad71-089770a091f1">
+              <AttributeID>MATG</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="26e1fd18-915a-48ba-9757-fb773976f51c">
+                  <DataType>WChar</DataType>
+                  <DataSize>50</DataSize>
+                  <NullProcessing>UnknownMember</NullProcessing>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="9d2d86a1-6b60-44cf-a407-76a21783a82b">
+                    <TableID>dbo_FACT</TableID>
+                    <ColumnID>MATG</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="9eba2424-45b1-4afc-bdc3-824bf3268f45">
+          <CubeDimensionID>NHANVIEN</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="e592c5b3-c1dd-48d3-960e-d50e4ce2693b">
+              <AttributeID>MANV</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="4e113c50-8738-4514-88bd-cda2db56ce43">
+                  <DataType>WChar</DataType>
+                  <DataSize>50</DataSize>
+                  <NullProcessing>UnknownMember</NullProcessing>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="eb7678d4-1f32-4bed-8b27-5276d1b9b468">
+                    <TableID>dbo_FACT</TableID>
+                    <ColumnID>MANV</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="6556b5e0-09b2-4eb4-9679-a795c28175c2">
+          <CubeDimensionID>KHACHHANG</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="b6993d3d-04f9-4b2f-9812-19d2d2b19a08">
+              <AttributeID>MAKHACH</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="7f0ec701-452a-4347-8984-4310e9145a68">
+                  <DataType>WChar</DataType>
+                  <DataSize>50</DataSize>
+                  <NullProcessing>UnknownMember</NullProcessing>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="d68a906b-dd7e-4ab0-b308-613751881a68">
+                    <TableID>dbo_FACT</TableID>
+                    <ColumnID>MAKHACH</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="448b31c4-5f5d-4e15-a6d8-b066523e8bf4">
+          <CubeDimensionID>TINH</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="9e9d86a1-7161-4dc3-8c61-dabe098e53e4">
+              <AttributeID>MAKVC</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="32bda610-28ef-4192-8e35-dbed1a7864d8">
+                  <DataType>WChar</DataType>
+                  <DataSize>50</DataSize>
+                  <NullProcessing>UnknownMember</NullProcessing>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="998ea5eb-4d40-47be-94b9-bc0710999ab2">
+                    <TableID>dbo_FACT</TableID>
+                    <ColumnID>MAKVC</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="0d5d1724-00c9-4e42-ac90-b85c70ec4821">
+          <CubeDimensionID>NHAPP</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="576ed3bb-8021-466a-a9e3-3337b95f1734">
+              <AttributeID>MANPP</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="af11fcb6-fffb-4402-9e2c-ed84e880dce0">
+                  <DataType>WChar</DataType>
+                  <DataSize>50</DataSize>
+                  <NullProcessing>UnknownMember</NullProcessing>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="a4a55b58-ab62-4980-a67c-79b4d62e3660">
+                    <TableID>dbo_FACT</TableID>
+                    <ColumnID>MANPP</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="179ed9c3-c481-4da9-aefc-ab9b511d56c1">
+          <CubeDimensionID>SANPHAM</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="36c87a80-4f2f-484c-9930-992667f4139d">
+              <AttributeID>MASP</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="8e5ec607-e9ac-4e07-b536-a34a59afc648">
+                  <DataType>WChar</DataType>
+                  <DataSize>50</DataSize>
+                  <NullProcessing>UnknownMember</NullProcessing>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="bf378975-74e0-4462-ba4d-72682deb5047">
+                    <TableID>dbo_FACT</TableID>
+                    <ColumnID>MASP</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+      </Dimensions>
+      <Partitions />
+    </MeasureGroup>
+  </MeasureGroups>
+  <Source dwd:design-time-name="8f4796a7-a6b5-4806-9a34-c34b6c053d12">
+    <DataSourceViewID>QLKEODUA</DataSourceViewID>
+  </Source>
+</Cube>

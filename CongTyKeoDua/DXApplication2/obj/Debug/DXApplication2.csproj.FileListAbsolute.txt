@@ -1,0 +1,10 @@
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.Properties.Resources.resources
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.GenerateResource.Cache
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.exe.licenses
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\bin\Debug\DXApplication2.pdb
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.FormMain.resources
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.FormNapDuLieu.resources
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.exe
+D:\BT\Nhóm KLTN_PhanTichKinhDoanhKeoDua\DXApplication2\DXApplication2\obj\Debug\DXApplication2.pdb

@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using WEBKEODUA.Models;
+@model List<CTSANPHAM>
+<h2>Danh sách sản phẩm</h2>
+<div class="row">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-4">
+                <img src="@Url.Content("~/Image/"+item.ANH)" style="width:70%; height:70%" alt="Image" />
+                @if (item.SANPHAM.TENSP.Length > 30)
+                {
+                    <p><strong title="@item.SANPHAM.TENSP">Tiêu đề: @item.SANPHAM.TENSP.Substring(0, 30)...</strong></p>
+                    <a href="@Url.Action("ProductDetail","SanPham", new {@Id = item.MASP})">Chi tiết Sản Phẩm</a>
+                }
+                else
+                {
+                    <p><strong title="@item.SANPHAM.TENSP"> Tiêu đề: @item.SANPHAM.TENSP</strong></p>
+                    <a href="@Url.Action("ProductDetail","SanPham", new {@Id = item.MASP })">Chi tiết Sản Phẩm</a>
+                }
+                <br />
+                @*<a href="@Url.Action("ProductDetail","SanPham", new { @id = @item.MASP})" class="btn btn-primary btn-lg active" >Mua Ngay</a>*@
+                <br />
+                <br />
+            </div>
+        }
+    }
+</div>
+
+
+@*@using WEBKEODUA.Models;
+<h2>Danh sách sản phẩm</h2>
+<div class="row">
+    @foreach (CTSANPHAM s in Model)
+    {
+        <div class="card" style="width:15rem;">
+            <div class="card-body">
+                <h5 class="card-title">@s.SANPHAM.TENSP</h5>
+                <img src="~/Image/@s.ANH" width="100" height="100" />
+                <h6 class="card-subtitle mb-2">Giá: <span style="color:red;">@string.Format("{0:0,0}", @s.SANPHAM.GIABAN)</span>ĐỒNG</h6>
+                <a href="@Url.Action("ProductDetail","SanPham", new { @id = @s.MASP})" class="btn btn-primary btn-lg active">Xem Chi Tiết</a>
+            </div>
+        </div>
+    }
+</div>*@
+

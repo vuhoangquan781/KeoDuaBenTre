@@ -1,0 +1,81 @@
+﻿@model WEBKEODUA.Models.SANPHAM
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/admin/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Xóa Thông Tin Sản Phẩm</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>SANPHAM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TENSP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TENSP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TRONGLUONG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TRONGLUONG)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QUYCACH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QUYCACH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KHUYENMAI)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KHUYENMAI)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GIABAN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GIABAN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CTSANPHAM.ANH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CTSANPHAM.ANH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LOAISP.TENLOAISP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LOAISP.TENLOAISP)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "Index")
+        </div>
+    }
+</div>

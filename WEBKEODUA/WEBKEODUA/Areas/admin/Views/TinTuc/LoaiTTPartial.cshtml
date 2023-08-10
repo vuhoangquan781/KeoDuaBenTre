@@ -1,0 +1,14 @@
+﻿@using WEBKEODUA.Models;
+@model List<THELOAITIN>
+<ul class="list-group list-group-flush text-left">
+    <li class="list-group-item" style="background-color:#F3093C;"><a href="#" style="text-transform:uppercase; text-decoration:none; color:white; font-weight:bold;">Tin Tức </a></li>
+    @{
+        foreach (var item in Model)
+        {
+            <li class="list-group-item">
+                <a href="@Url.Action("TinTucType","TinTuc", new { @maloai = item.MALOAI })" style="text-transform:uppercase; text-decoration:none;">@item.TENLOAI</a>
+            </li>
+        }
+        <li class="list-group-item"><a href="#" style="text-transform:uppercase; text-decoration:none;"> </a></li>
+    }
+</ul>

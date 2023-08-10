@@ -1,0 +1,102 @@
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csprojResolveAssemblyReference.cache
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.FormGiaoDien.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhachHang.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csproj.GenerateResource.Cache
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.pdb
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.Properties.Resources.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.exe
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.pdb
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhaPP.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormTinh.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhuVuc.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormSanPham.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLoaiSP.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDDH.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTDDH.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormXH.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTXH.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormChiNhanh.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhanVien.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCapQuyen.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDoiMK.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLogin.resources
+G:\Nhóm KLTN_PhanTichKinhDoanhKeoDua (1)\Nhóm KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormQuenMK.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.exe
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.pdb
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.pdb
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csprojResolveAssemblyReference.cache
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCapQuyen.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormChiNhanh.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTDDH.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTXH.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDDH.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDoiMK.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.FormGiaoDien.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhachHang.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhuVuc.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLoaiSP.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLogin.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhanVien.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhaPP.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormQuenMK.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormSanPham.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormTinh.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormXH.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.Properties.Resources.resources
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csproj.GenerateResource.Cache
+G:\Nhom_KLTN_PhanTichKinhDoanhKeoDua\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KeoDua\QL_KeoDua_UngDung\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe.config
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe.config
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.exe
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.pdb
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.pdb
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCapQuyen.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormChiNhanh.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTDDH.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTXH.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDDH.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDoiMK.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.FormGiaoDien.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhachHang.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhuVuc.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLoaiSP.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLogin.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhanVien.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhaPP.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormQuenMK.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormSanPham.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormTinh.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormXH.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.Properties.Resources.resources
+C:\Users\Admin\Downloads\QL_KeoDua\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csproj.GenerateResource.Cache
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe.config
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.exe
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.pdb
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.pdb
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csprojResolveAssemblyReference.cache
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCapQuyen.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormChiNhanh.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTDDH.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormCTXH.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDDH.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormDoiMK.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.FormGiaoDien.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhachHang.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormKhuVuc.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLoaiSP.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormLogin.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhanVien.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormNhaPP.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormQuenMK.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormSanPham.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormTinh.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.GUI.FormXH.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.Properties.Resources.resources
+D:\BT\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Giaiquyetdoan\Khoaluan26122021\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\bin\Debug\QL_KeoDua_UngDung.exe.config
+C:\Users\lenovo\Desktop\Giaiquyetdoan\Khoaluan26122021\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.exe
+C:\Users\lenovo\Desktop\Giaiquyetdoan\Khoaluan26122021\Nhom_KLTN_PhanTichKinhDoanhKeoDua\QL_KEODUA\QL_KeoDua_UngDung\obj\Debug\QL_KeoDua_UngDung.pdb
